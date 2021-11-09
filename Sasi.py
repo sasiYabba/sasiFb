@@ -22,9 +22,9 @@ abm = """
 \033[1;97m      |  | |  |  ||  | |     \     | |  |  
 \033[1;97m     |____||__|__||__| |_____|\____| |__|  
 \033[1;97m------------------------------------------------- 
-\033[1;97m(~) Author  : Tech Abm
-\033[1;97m(~) Github  : https://github.com/Tech-abm
-\033[1;97m(~) Fb Page : https://facebook.com/Techabm
+\033[1;97m(~) Author  : SASIYA BALCK HACKR
+\033[1;97m(~) Github  : The secret man
+\033[1;97m(~) Fb Page : https://facebook.com/sasindu.hacke
 \033[1;97m-------------------------------------------------
 """
 
